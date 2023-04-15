@@ -11,5 +11,5 @@ You can modify the const value inside Game.hpp called cMaxIter to get better or 
 ## Compilation
 You'll need to either compile it yourself or use the premade Makefile.
 
-##Example
+## Example
 ![My Image](img/mandelbrot.png)
